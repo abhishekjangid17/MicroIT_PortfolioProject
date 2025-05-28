@@ -4,7 +4,7 @@ const projects = [
   {
     title: 'Portfolio Website',
     description: 'A modern personal portfolio built with React and Tailwind CSS.',
-    link: '#',
+    link: 'https://abhishekportfoliomicroit.netlify.app/',
   },
   {
     title: 'MERN Blog App',
